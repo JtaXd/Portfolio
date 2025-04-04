@@ -1,10 +1,9 @@
-# Portfólio João
+# 📚 Portfólio João Arthur
 
-*Portfólio feito para estudar html, css e js.*
+- *Portfólio feito para estudar html, css e js. (Mais no futuro usarei como portfólio)*
 
 ---
 
-Um dos meus primeiros projetos, usarei no futuro como portfólio mas por enquanto como estou estudando ainda html, css e js estarei usando como aprendizado.
-
+Um dos meus primeiros projetos, usarei no futuro como portfólio mas por enquanto como ainda estou estudando estarei usando-o mais para aprendizado.
 
 *Mentorado por Arthur Hirche*
