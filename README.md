@@ -1,9 +1,9 @@
-# 📚 Portfólio João Arthur
+# 📚 João Arthur's Portfolio
 
-- *Portfólio feito para estudar html, css e js. (Mais no futuro usarei como portfólio)*
+- _Portfolio made to study HTML, CSS and JS._
 
 ---
 
-Um dos meus primeiros projetos, usarei no futuro como portfólio mas por enquanto como ainda estou estudando estarei usando-o mais para aprendizado.
+One of my first projects. I will use it as my actual portfolio in the future. But for now, since I'm still learning, I'll be using it mainly for practice and study.
 
-*Mentorado por Arthur Hirche*
+_Mentored by Arthur Hirche_
