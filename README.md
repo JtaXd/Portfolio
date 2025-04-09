@@ -1,8 +1,6 @@
 # 📚 Potfólio pessoal - João Arthur Deitos Fontanella
 
-📄 Sobre o Projeto
-
----
+# 📄 Sobre o Projeto
 
 Um dos meus primeiros projetos, será uma página responsiva e interativa onde você poderá:
 
@@ -10,9 +8,9 @@ Um dos meus primeiros projetos, será uma página responsiva e interativa onde v
 - 🌐 Acessar minhas redes sociais
 - 📎 Baixar meu Currículo
 
-## _No momento estou usando para estudo das linguagens HTML, CSS e JS._
+_No momento estou usando para estudo das linguagens HTML, CSS e JS._
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -20,7 +18,7 @@ Um dos meus primeiros projetos, será uma página responsiva e interativa onde v
 
 ---
 
-📱 Informações de Contato
+# 📱 Informações de Contato
 
 - E-mail: jta092318@gmail.com
 - [Linkedin](https://www.linkedin.com/in/jtafontanella/)
