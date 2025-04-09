@@ -29,4 +29,5 @@ Um dos meus primeiros projetos, será uma página responsiva e interativa onde v
 ---
 
 _Mentorado por Arthur Hirche_
+
 **Github do Arthur: [Github](https://github.com/ArtHirche)**
