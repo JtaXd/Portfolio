@@ -2,7 +2,7 @@
 
 # 📄 Sobre o Projeto
 
-Olá, me chamo **João Arthur Deitos Fontanella** e estou estudando de forma autônom as linguagens HTML5, CSS3 e JS. Esse é um dos meus primeiros projetos, será uma página responsiva e interativa onde você poderá:
+Olá, me chamo **João Arthur Deitos Fontanella** e estou estudando de forma autônoma as linguagens HTML5, CSS3 e JS. Esse é um dos meus primeiros projetos, será uma página responsiva e interativa onde você poderá:
 
 - 💼 Conhecer minha formação
 - 🌐 Acessar minhas redes sociais
