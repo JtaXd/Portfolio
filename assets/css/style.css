@@ -1,0 +1,25 @@
+body {
+  background-color: rgb(146, 63, 224);
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #eee473;
+  text-align: left;
+}
+
+h2 {
+  color: #e7e7e7;
+  text-align: left;
+}
+
+h3 {
+  color: #eee473;
+}
+
+p {
+  color: #e7e7e7;
+}
+li {
+  color: #e7e7e7;
+}
