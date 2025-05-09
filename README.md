@@ -14,7 +14,7 @@ _No momento estou usando para estudo das linguagens HTML, CSS e JS._
 
 - HTML5
 - CSS3
-- JS(Ainda não utilizado)
+- JS _Será implementado no futuro_
 
 ---
 
